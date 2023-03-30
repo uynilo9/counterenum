@@ -1,6 +1,6 @@
 {
   "name": "counterenum",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0",
   "description": "Map enum values to their keys in TypeScript",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
