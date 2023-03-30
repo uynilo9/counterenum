@@ -1,10 +1,19 @@
 {
   "name": "counterenum",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "description": "Map enum values to their keys in TypeScript",
-  "main": "counterenum.ts",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
   "author": "uynilo9",
   "license": "MIT",
+  "keywords": [
+    "counterenum",
+    "typescript",
+    "counter",
+    "enum",
+    "inverse"
+  ],
+  "files": ["dist/**/*"],
   "scripts": {
     "build": "tsc"
   },
