@@ -1,7 +1,7 @@
 {
   "name": "counterenum",
   "version": "1.0.0",
-  "description": "Map enum values to their keys in TypeScript",
+  "description": "⚡ - Map enum values to their keys in TypeScript",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
   "author": "uynilo9",
@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "typescript": "^5.0.2"
-  }
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uynilo9/counterenum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uynilo9/counterenum/issues"
+  },
+  "homepage": "https://github.com/uynilo/counterenum9#readme"
 }
